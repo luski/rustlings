@@ -43,3 +43,13 @@ strings2
 strings3
 strings4
 errors1
+modules1
+modules2
+modules3
+hashmaps1
+hashmaps2
+hashmaps3
+quiz2
+options1
+options2
+options3
